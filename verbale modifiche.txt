@@ -1,0 +1,28 @@
+21/05/2026
+
+
+modifiche - francesco:
+
+
+1. eliminare ISP e ESP sostituendo i due attori secondari in uno solo chiamato SISTEMA per la fase di registrazione
+2. nuova gerarchia -> utente non autenticato -> utente autenticato -> operatore & responsabile
+
+-- fine verbale -- 
+
+note: modifiche da applicare al sistema. 
+
+domande ricevimento
+
+Francesco
+
+1. attore secondario "Sistema"
+2. utente non autenticato potrebbe effettuare lui il login senza dover far esistere utente autenticato
+3. utente autenticato può effettuare direttamente consulta elenco prodotti
+4. controllo soglia minima / verifica disponibilità scorte -> ambiguità dei UC
+
+--------
+
+Fabrizio
+
+1. correttezza requisiti funzionali finora scritti
+2. se nel 2.4.3 è necessario basarsi su ISO 25010 o posso usare altri campi

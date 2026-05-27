@@ -1,0 +1,5 @@
+parti da sviluppare in singolo
+
+Fabrizio: registra movimento carico
+Francesco: visualizza storico personale movimenti
+Amedeo: Ricezione notifica

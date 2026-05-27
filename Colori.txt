@@ -1,0 +1,19 @@
+#1B4F8A
+Blu acciaio
+Colore principale
+
+#2E6DB4
+Blu medio
+Titoli secondari
+
+#D6E4F0
+Azzurro chiaro
+Sfondi tabelle
+
+#F4F6F8
+Grigio neutro
+Sfondo sezioni
+
+#2C3E50
+Antracite
+Testo corpo
